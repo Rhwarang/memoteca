@@ -2,63 +2,9 @@
   "pensamentos": [
     {
       "conteudo": "Teste e",
-      "autoria": "cuzinho",
+      "autoria": "teste",
       "modelo": "modelo1",
       "id": 2
-    },
-    {
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1",
-      "id": 3
-    },
-    {
-      "conteudo": "Teste e",
-      "autoria": "cuzinho",
-      "modelo": "modelo1",
-      "id": 2
-    },
-    {
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1",
-      "id": 3
-    },
-    {
-      "conteudo": "Teste e",
-      "autoria": "cuzinho",
-      "modelo": "modelo1",
-      "id": 2
-    },
-    {
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1",
-      "id": 3
-    },
-    {
-      "conteudo": "Teste e",
-      "autoria": "cuzinho",
-      "modelo": "modelo1",
-      "id": 2
-    },
-    {
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1",
-      "id": 3
-    },
-    {
-      "conteudo": "Teste e",
-      "autoria": "cuzinho",
-      "modelo": "modelo1",
-      "id": 2
-    },
-    {
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo1",
-      "id": 3
     }
   ]
 }
