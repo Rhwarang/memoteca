@@ -4,19 +4,22 @@
       "conteudo": "Teste a",
       "autoria": "testea",
       "modelo": "modelo1",
-      "id": 2
+      "id": 2,
+      "favorito": true
     },
     {
       "conteudo": "Teste b",
       "autoria": "testeb",
-      "modelo": "modelo1",
-      "id": 3
+      "modelo": "modelo2",
+      "id": 3,
+      "favorito": false
     },
     {
       "conteudo": "Teste c",
       "autoria": "testec",
-      "modelo": "modelo1",
-      "id": 4
+      "modelo": "modelo3",
+      "id": 4,
+      "favorito": false
     }
   ]
 }
