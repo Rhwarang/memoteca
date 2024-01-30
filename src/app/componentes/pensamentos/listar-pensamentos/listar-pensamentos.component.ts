@@ -44,4 +44,13 @@ export class ListarPensamentosComponent implements OnInit {
     });
   }
 
+  listarPensamentosFavoritos(){
+    this.haMaisPensamentos = true;
+    this.paginaAtual = 1;
+    this.service.listarPensamentosFavoritos(this.paginaAtual, this.filtro)
+      .subscribe(listaPensamentosFavoritos => {
+        this.listaPensamentos = listaPensamentosFavoritos;
+      });
+  }
+
 }

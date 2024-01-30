@@ -5,14 +5,14 @@
       "autoria": "testea",
       "modelo": "modelo1",
       "id": 2,
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Teste b",
       "autoria": "testeb",
       "modelo": "modelo2",
       "id": 3,
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Teste c",
