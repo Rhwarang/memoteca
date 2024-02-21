@@ -16,6 +16,7 @@ export class ListarPensamentosComponent implements OnInit {
   filtro: string = '';
   favoritos: boolean = false;
   listaFavoritos: Pensamento[] = [];
+  titulo: string = 'Meu mural';
 
   constructor(
       private service: PensamentoService,
@@ -49,6 +50,7 @@ export class ListarPensamentosComponent implements OnInit {
   }
 
   listarPensamentosFavoritos(){
+    this.titulo = 'Meus favoritos';
     this.haMaisPensamentos = true;
     this.paginaAtual = 1;
     this.service.listar(this.paginaAtual, this.filtro, true)
